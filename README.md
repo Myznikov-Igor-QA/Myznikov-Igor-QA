@@ -94,6 +94,5 @@
 
 ## 🤝 Контакт
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:metrika8@testcloud.ru)
-[![Telegram Badge] ([https://t.me/CloudSammers](https://t.me/CloudSammers" target="_blank"> <img src=".\images\telegram-logo-icon.png" alt="telegram-logo-icon.png))
-
+[![Telegram Badge] (https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)]([https://t.me/CloudSammers]
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
