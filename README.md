@@ -87,7 +87,6 @@
 
 ## 🎒 Образование
 [<img src="/Certificate.png" width="280px" hspace="10px" alt="Certificate»">](https://raw.githubusercontent.com/Myznikov-Igor-QA/Myznikov-Igor-QA/refs/heads/main/Middle%20Level%20Certificate.png)
-[<img src="/recommendation.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/recommendation.png)
 
 <br>
 <br>
